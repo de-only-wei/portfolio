@@ -1,0 +1,35 @@
+{
+  "projects": [
+    {
+      "list": [
+        {
+          "name": "Seal Game Engine",
+          "type": "game engine",
+          "description": "custom game engine for 2D games",
+          "description2": "(very cool)",
+          "date": "Aug 2023",
+          "image": "/images/1000y.jpg",
+          "link": "https://github.com/Seal-Game-Engine/CSCI-178-Game-Development-Engine"
+        },
+        {
+          "name": "Super Fowl Fist",
+          "type": "game",
+          "description": "2D platformer game",
+          "description2": "(ft: tike myson & chicken)",
+          "date": "Aug 2023",
+          "image": "/images/poster1.png",
+          "link": "https://github.com/Seal-Game-Engine/CSCI-178-Game-Development-Engine"
+        },
+        {
+          "name": "Splitit",
+          "type": "app",
+          "description": "the only no BS bill splitter I wanted!",
+          "description2": "",
+          "date": "Aug 2023 - Now",
+          "image": "/images/1000y.jpg",
+          "link": "https://github.com/splitit-app"
+        }
+      ]
+    }
+  ]
+}

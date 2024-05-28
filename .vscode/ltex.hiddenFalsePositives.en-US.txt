@@ -1,0 +1,27 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QWhile searching around the web for interesting things, I had the chance to come by a letter Richard Feynman wrote to his student Koichi.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QIs the true intention of Koichi's letter properly understood by Feynman?\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QDid the culture difference between Koichi and Feynman (idea of individualism, politeness, and respect) transform the intentions of the letter?\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QEither way it is an interesting and beautifully written letter from Feynman to Koichi.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QWhile casually searching around the web, I had the chance to come by a letter Richard Feynman wrote to his student Koichi.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QWhile casually searching around the web, I had the chance to come by a beautifully written letter Richard Feynman wrote to his student Koichi.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QS(ingle Responsibility Principal)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QS(ingle Responsibility Principal)\nO(pen Closed Principal)\nL(iskov Substitution Principal)\nI(nterface Substitution Principal)\nD(ependency Inversion Principal)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThink of it as having a base car with different packs/mods(interface) to choose from They don't necessarily need to implement all of it but can choose which one to implement\nClubsport package\nWeissach package\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QCore edition\nCircuit edition\nMorizo edition\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q(S)ingle Responsibility Principal\nClasses should only have 1 job and have high cohesion within itself.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q(L)iskov Substitution Principal\nYou should be able to replace any object from a base class to a substitute class, vice versa.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThink of it as booking an Uber, it'll have different type to fit your needs like:\nUberX(parent)\nUberXL(child)\nUberBlack(child).\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThink of it as booking an Uber, it'll have different type to fit your needs like:\nUberX(parent)\nUberXL(child)\nUberBlack(child)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThink of it as booking an Uber, it'll have different type to fit your needs like:\nUberX(parent) go from A to B\nUberXL(child) UberX + bigger\nUberBlack(child) UberXL + premium\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThink of it as booking an Uber, it'll have different type to fit your needs like:\nUberX(parent) go from A to B\nUberXL(child) UberX + bigger\nUberBlack(child) UberXL + more premium\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q(I)nterface Substitution Principal\nInterfaces should be very distinct and separate (role interfaces)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q(L)iskov Substitution Principal\nYou should be able to replace any object from a base class to a substitute class without any issues, vice versa.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q(D)ependency Inversion Principal\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSame kind of clothes.\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe first song that Marcus taught me was Worldstar Money by Joji, I managed to play it at the end of the day, but I still feel like more work needs to be put into it to perfect it.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QA song that I plan to learn how to play this spring break is definitely \"Night in Tuscany\"(Romanza).\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QI was feeling reluctant at first after my workout, but I don't know why I just agreed to go with Jason to the rock climbing event.\\E$"}
+{"rule":"AGREEMENT_SENT_START","sentence":"^\\QThe troubles, frustrations, burdens, and dissapoinments instantly dissolved and left behind a profound sense of peace and serenity.\\E$"}
+{"rule":"AGREEMENT_SENT_START","sentence":"^\\QImprovements\nThanks to my internship, I am now much more comfortable with JavaScript, Reading Documentation, etc.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QBig stuff\nClothing designs\nInspo:\natthemoment (T-shirts)\ndogecore (T-shirts)\ngrin27 (Cycling)\npasnormal (Cycling)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QCool stuff\nClothing designs\nInspo:\natthemoment (T-shirts)\ndogecore (T-shirts)\ngrin27 (Cycling)\npasnormal (Cycling)\\E$"}
