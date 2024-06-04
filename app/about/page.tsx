@@ -10,13 +10,13 @@ const ThoughtsPage = () => {
         <div>
             <article className='prose font-medium'>
                 <span className='wave'>
-                    <a href='/about/secret'>{greetingCharacters.map((letter, index) => (<span key={index}>{letter}</span>))}</a>
+                    <a>{greetingCharacters.map((letter, index) => (<span key={index}>{letter}</span>))}</a>
                 </span>
                 <h3 className='zero'>
                     Welcome to my little internet garden {'🌺'}
                 </h3>
                 <p className='font-medium'>
-                    Originally from Malaysia 🇲🇾, I'm currently based in California, USA studying Computer Science at{" "} <a href="https://www.fresnostate.edu/index.html">Fresno State</a>.
+                Originally from Malaysia 🇲🇾, I'm currently based in California, USA and graduated with a BS in Computer Science from{" "} <a href="https://www.fresnostate.edu/index.html">Fresno State</a>.
                 </p>
                 <p className='font-medium'>
                     I love to build things. I've spent my summers and semesters at <a href='https://tao.net/'>Tao.Net</a> building cool robotic process automations;
